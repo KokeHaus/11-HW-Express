@@ -15,7 +15,7 @@ Express routing API calls for Note Taking app!
 Clone from github. Node and express required.
 
 ## Usage 
-Deployed on Heroku here: 
+Deployed on Heroku here: https://note-taker96.herokuapp.com/
 Start taking Notes!
 
 
