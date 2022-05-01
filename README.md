@@ -15,7 +15,7 @@ Express routing API calls for Note Taking app!
 Clone from github. Node and express required.
 
 ## Usage 
-Deployed on github pages
+Deployed on Heroku here: 
 Start taking Notes!
 
 
